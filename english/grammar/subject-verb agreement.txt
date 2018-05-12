@@ -1,0 +1,8 @@
+1. if S is singular, V is singular, if S is plural, V is plural.
+Example: Huyen has black hair.
+		Huyen and his brother have black hair.
+
+2. Subject join by and are plural and receive a plural verb.
+Ex: Huyen and his brother have black hair.
+
+3. Subject join by "or" or "nor"
